@@ -27,7 +27,7 @@
       <windGustVelocityMean>4.0</windGustVelocityMean>
       <windPubTopic>world_wind</windPubTopic>
       <useCustomStaticWindField>True</useCustomStaticWindField>
-      <customWindFieldPath>/home/johanna/MasterThesis/Wind_data/wind_field/uniform_xy.txt</customWindFieldPath>
+      <customWindFieldPath>/home/johanna/MasterThesis/Wind_data/wind_field/test.txt</customWindFieldPath>
     </plugin>
     <plugin name='ros_interface_plugin' filename='libgazebo_ros_interface_plugin.so'/>
     <physics name='default_physics' default='0' type='ode'>
